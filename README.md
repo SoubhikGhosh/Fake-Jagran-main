@@ -1,4 +1,4 @@
-# FakeJagran
+# Faked?
 
 It is a datector for fake news curated out of natural language processing , machine learning.
 
